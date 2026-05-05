@@ -19,7 +19,6 @@ Verify Git Installation: git --version
   3. ssh-add ~/.ssh/id_rsa
   4. cat ~/.ssh/id_rsa.pub
   5. Copy and paste the ssh key on Github/Gitlab
---------------------------
 
 ---------------------------
 
