@@ -1,4 +1,4 @@
-# DOCKER MANUAL
+# GIT MANUAL
 
 > A **Git** is a version control tool to track file changes (open-source)
 > (In VS Code, U = Untracked changes, M = Modified)
