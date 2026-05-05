@@ -14,7 +14,7 @@ Verify Git Installation: git --version
 **Connecting Git to Github account:** Using SSH key
 
 ### Steps to generate new SSH key locally using linux: 
-  1. ssh-keygen -t rsa -b 4096 -C "{your_github_email@gmail.com}"
+  1. ssh-keygen -t rsa -b 4096 -C "{your_github_email​@gmail.com}"
   2. eval "$(ssh-agent -s)"
   3. ssh-add ~/.ssh/id_rsa
   4. cat ~/.ssh/id_rsa.pub
@@ -60,10 +60,8 @@ Verify Git Installation: git --version
 **7. git push :** Push your changes to github repositories
 
     a. git push -u {remote_name} master :** Push your changes to github repositories using command line 
-
-    b. git remote -b : 
     
-    c. git push --set-upstream {remote_name} master : when you push for the first time
+    b. git push --set-upstream {remote_name} master : when you push for the first time
 
 **8. git pull :** Commiting the changes which has been staged
 
