@@ -32,7 +32,7 @@ cat ~/.ssh/id_rsa.pub
 
 **2. git status :** Shows the current state of files (staged, unstaged, untracked)
 
-        (In VS Code: U = Untracked files, M = Modified files)
+(In VS Code: U = Untracked files, M = Modified files)
 
 **3. git branch {branch_name} :** Create a new branch (it creates a replica of the current head)
 
