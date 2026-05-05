@@ -13,7 +13,7 @@ Verify Git Installation: git --version
 
 **Connecting Git to Github account:** Using SSH key
 
-### Steps to generate new SSH key locally using linux: 
+**Steps to generate new SSH key locally using linux:** 
   1. ssh-keygen -t rsa -b 4096 -C "{your_github_email​@gmail.com}"
   2. eval "$(ssh-agent -s)"
   3. ssh-add ~/.ssh/id_rsa
