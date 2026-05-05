@@ -2,8 +2,6 @@
 
 > A **Git** is a distributed version control system used to track changes in files (open-source).
 
-(In VS Code: U = Untracked files, M = Modified files)
-
 > **Github** is a cloud platform (by Microsoft) used to host Git repositories and collaborate on projects.
 
 ---------------------------
@@ -33,6 +31,8 @@ cat ~/.ssh/id_rsa.pub
 **1. git init :** Initializes a new Git repository
 
 **2. git status :** Shows the current state of files (staged, unstaged, untracked)
+
+        (In VS Code: U = Untracked files, M = Modified files)
 
 **3. git branch {branch_name} :** Create a new branch (it creates a replica of the current head)
 
